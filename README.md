@@ -5,6 +5,7 @@ The dataset contains a single CSV file with information about the sales, profit,
 
 # DATA ANALYSIS & VISUALIZATION
 The analysis and visualization of the data were all done on Tableau.
+The analysis is concentrated on the comparison of sales, profit, orders, and customers for the recent and previous years (2017 & 2016).
 
 *To view and interact with the Dashboard, click on the link below:
   https://public.tableau.com/views/Salesperformanceoverview_17148583394950/SalesComparison?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
